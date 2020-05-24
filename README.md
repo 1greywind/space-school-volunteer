@@ -1,2 +1,20 @@
-# space-school-volunteer
-Repository contains matherials, presentations, home works and notes for Summer Space School Volunteer course
+# Добро пожаловать в школу волонтеров Летней Космической Школы • 2020!
+Здесь вы найдете ссылки на видео-лекции, презентации, дополнительные материалы,
+инструкции и домашние задания для самостоятельной работы.
+
+Для выполнения большинства домашних занятий вам потребуется программа Kerbal Space Program
+
+## Инструкция по установке Kerbal Space Program (KSP):
+1. Приобретите KSP на
+    [сайте разработчика](https://www.kerbalspaceprogram.com/store/),
+    [онлайн магазине Steam](https://store.steampowered.com/app/220200/Kerbal_Space_Program/),
+    [или GOG](https://www.gog.com/game/kerbal_space_program)
+    (наименьшая цена в рублях будет скорее всего в стиме - 250-300 р. по скидке)
+2. Установивте программу (если у вас возникают трудности или вопросы,
+   пишите в чат ЛКШ-2020 [в Контакте](https://vk.me/join/AJQ1d_3CuBfywdM9wDb9kgNs)
+   или [в Телеграмме](https://t.me/space_school_chat)
+3. Скачайте архив с комплектом необходимых дополнений [по ссылке]().
+4. Распакуйте архив в папку /ваша папка где установлена KSP/GameData
+5. Запустите KSP.
+
+
