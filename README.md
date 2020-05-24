@@ -21,11 +21,11 @@
     [онлайн магазине Steam](https://store.steampowered.com/app/220200/Kerbal_Space_Program/),
     [или GOG](https://www.gog.com/game/kerbal_space_program)
     (наименьшая цена в рублях будет скорее всего в стиме - 250-300 р. по скидке)
-2. Установивте программу (если у вас возникают трудности или вопросы,
+2. Установите программу (если у вас возникают трудности или вопросы,
    пишите в чат ЛКШ-2020 [в Контакте](https://vk.me/join/AJQ1d_3CuBfywdM9wDb9kgNs)
    или [в Телеграмме](https://t.me/space_school_chat)
-3. Скачайте архив с комплектом необходимых дополнений [по ссылке](http://spaceprogram.ru/GameData-LKSH-2020-volunteer-modpack.zip).
-4. Распакуйте архив в папку /ваша папка где установлена KSP/GameData
-5. Запустите KSP.
+3. Скачайте архив с комплектом необходимых дополнений [по ссылке](http://spaceprogram.ru/GameData-LKSH-2020-volunteer-modpack.zip)
+4. Распакуйте архив в папку /ваша папка, где установлена KSP/GameData
+5. Запустите KSP
 
 
