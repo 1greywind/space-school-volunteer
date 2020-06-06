@@ -7,7 +7,7 @@
 * [Онлайн лекция №1 «Введение в орбитальную механику»](https://github.com/1greywind/space-school-volunteer/tree/master/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D1%8F%20%E2%84%961)
 * [Онлайн-лекция №2 «Орбитальная механика в деталях»](https://github.com/1greywind/space-school-volunteer/tree/master/Лекция%20№2)
 * [Онлайн-лекция №3 «Планирование и оптимизация траекторий космических аппаратов»](https://github.com/1greywind/space-school-volunteer/tree/master/Лекция%20№3)
-* Онлайн-тренинг №4 «Пакет программ KSP Trajectory optimization tools»
+* [Онлайн-тренинг №4 «Пакет программ KSP Trajectory optimization tools»](https://github.com/1greywind/space-school-volunteer/tree/master/Лекция%20№4)
 * Онлайн-тренинг №5 «Программно-аппаратный комплекс «Симуляция космического полета и ЦУПа»
 * Онлайн-тренинг №6 «Управление космическими аппаратами в симуляции»
 * Онлайн-тренинг №7 «Разработка программ управления автоматическим межпланетными станциями в симуляции» 
