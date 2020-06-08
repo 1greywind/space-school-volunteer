@@ -36,10 +36,18 @@
 Папка пользователя обычно расположена на диске C:\Users\Имя пользователя 
 или C:\Пользователи\Имя пользователя
 
+![alt text](https://github.com/1greywind/space-school-volunteer/raw/dev/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D1%8F%20%E2%84%965/1.png "123")
+
 3. Находим на рабочем столе ярлык OpenVPN GUI. Запускаем. 
 Затем находим в трее ярлык OpenVPN, 
 нажимаем правой кнопкной мыши и затем жмем «Подключиться»
 
+![alt text](https://github.com/1greywind/space-school-volunteer/raw/dev/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D1%8F%20%E2%84%965/2.png "")
+
 4. После этого видим сообщение об успешном подключении и ваш IP адрес в сети симуляции
 
+![alt text](https://github.com/1greywind/space-school-volunteer/raw/dev/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D1%8F%20%E2%84%965/3.png "")
+
 5. Чтобы отключиться — снова в трее находим OpenVPN, нажимаем правой кнопкой мыши, затем «Отключиться»
+
+![alt text](https://github.com/1greywind/space-school-volunteer/raw/dev/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D1%8F%20%E2%84%965/4.png "")
