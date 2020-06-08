@@ -20,3 +20,34 @@
 
 
 Задания и инструкции для лекции №5 будут скоро добавлены...
+
+### Инструкция по установке соединения с VPN сетью симуляции
+
+1. Скачиваем клиент OpenVPN
+   
+   Windows 7/8/8.1 - https://swupdate.openvpn.org/community/releases/openvpn-install-2.4.9-I601-Win7.exe
+   
+   Windows 10 - https://swupdate.openvpn.org/community/releases/openvpn-install-2.4.9-I601-Win10.exe
+   
+   Устанавливаем
+   
+2. Получаем от организаторов в чате в вк или телеграм набор ключей доступа к VPN сети симуляции, 
+находим папку OpenVPN\configs в папке пользователя и складываем туда полученные ключи. 
+Папка пользователя обычно расположена на диске C:\Users\Имя пользователя 
+или C:\Пользователи\Имя пользователя
+
+![alt text](https://github.com/1greywind/space-school-volunteer/raw/master/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D1%8F%20%E2%84%965/1.png "123")
+
+3. Находим на рабочем столе ярлык OpenVPN GUI. Запускаем. 
+Затем находим в трее ярлык OpenVPN, 
+нажимаем правой кнопкной мыши и затем жмем «Подключиться»
+
+![alt text](https://github.com/1greywind/space-school-volunteer/raw/master/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D1%8F%20%E2%84%965/2.png "")
+
+4. После этого видим сообщение об успешном подключении и ваш IP адрес в сети симуляции
+
+![alt text](https://github.com/1greywind/space-school-volunteer/raw/master/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D1%8F%20%E2%84%965/3.png "")
+
+5. Чтобы отключиться — снова в трее находим OpenVPN, нажимаем правой кнопкой мыши, затем «Отключиться»
+
+![alt text](https://github.com/1greywind/space-school-volunteer/raw/master/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D1%8F%20%E2%84%965/4.png "")
